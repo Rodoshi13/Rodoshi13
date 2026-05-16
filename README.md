@@ -39,6 +39,13 @@
 * Data Science
 * Bioinformatics & Genomic Data Analysis
 
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodoshi13&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rodoshi13's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodoshi13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Rodoshi13's Top Languages" height="180" />
+</p>
+
 ## Contact & Socials:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=flat-square&logo=google-chrome&logoColor=white)](https://rodoshi13.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zarrin-tasnim-rodoshi-6473333b5) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rzarrintasnim@gmail.com)
