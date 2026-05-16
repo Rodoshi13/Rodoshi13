@@ -1,6 +1,6 @@
 ## Hi There ! I am Zarrin Tasnim Rodoshi.
 
-* I am a CSE (Computer Science & Engineering) graduate from BRAC University, Dhaka, Bangladesh.
+* I am a **CSE** (Computer Science & Engineering) graduate from [BRAC University, Dhaka, Bangladesh](https://www.bracu.ac.bd/).
 * I'm focused on Full-Stack Web Development, with a strong interest in Machine Learning, AI, and Bioinformatics research. 
 
 ## Languages and Tech Stack
