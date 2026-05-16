@@ -41,4 +41,4 @@
 
 ## Contact & Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zarrin-tasnim-rodoshi-6473333b5) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rzarrintasnim@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=flat-square&logo=google-chrome&logoColor=white)](https://rodoshi13.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zarrin-tasnim-rodoshi-6473333b5) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rzarrintasnim@gmail.com)
