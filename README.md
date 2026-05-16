@@ -41,6 +41,4 @@
 
 ## Contact & Socials:
 
-## Contact & Socials:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zarrin-tasnim-rodoshi-6473333b5) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rzarrintasnim@gmail.com)
