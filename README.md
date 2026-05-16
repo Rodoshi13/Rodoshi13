@@ -1,15 +1,15 @@
 ## Hi There ! I am Zarrin Tasnim Rodoshi.
 
-* I am a CSE (Computer Science & Engineering) graduate from BRAC University.
+* I am a CSE (Computer Science & Engineering) graduate from BRAC University, Dhaka, Bangladesh.
 * I'm focused on Full-Stack Web Development, with a strong interest in Machine Learning, AI, and Bioinformatics research. 
 
 ## Languages and Tech Stack
 
-* Languages & Querying: Python, SQL, JavaScript, C++, PHP, HTML, CSS.
-* Full-Stack Web Development: React.js, Node.js, Express.js, MongoDB, MySQL, Firebase, Tailwind.
-* Machine Learning & Data Science: Pandas, NumPy, Scikit-learn, PyTorch, Keras, TensorFlow, Data Preprocessing, Feature Engineering, Model Evaluation.
-* Tools, Version Control & Graphics: Git, GitHub, VS Code, Jupyter Notebook, MongoDB Compass, OpenGL/GLUT, Microsoft Excel, Microsoft PowerPoint.
-* Professional Skills: Problem Solving, Presentation, Team Collaboration, Communication.
+* **Languages & Querying:** Python, SQL, JavaScript, C++, PHP, HTML, CSS.
+* **Full-Stack Web Development:** React.js, Node.js, Express.js, MongoDB, MySQL, Firebase, Tailwind.
+* **Machine Learning & Data Science:** Pandas, NumPy, Scikit-learn, PyTorch, Keras, TensorFlow, Data Preprocessing, Feature Engineering, Model Evaluation.
+* **Tools, Version Control & Graphics:** Git, GitHub, VS Code, Jupyter Notebook, MongoDB Compass, OpenGL/GLUT, Microsoft Excel, Microsoft PowerPoint.
+* **Professional Skills:** Problem Solving, Presentation, Team Collaboration, Communication.
 
 ## Projects:
 
