@@ -41,10 +41,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodoshi13&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rodoshi13's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodoshi13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Rodoshi13's Top Languages" height="180" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodoshi13&theme=tokyonight&hide_border=true" alt="Rodoshi13's GitHub Streak" height="180" />
 
 ## Contact & Socials:
 
